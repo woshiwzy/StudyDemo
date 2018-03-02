@@ -3,3 +3,4 @@ this line add from branch1
 edit from master
 edit from branch1 this add some line
 Hello add A test line
+add some from master
